@@ -46,6 +46,10 @@
 	
 <br>
 	
+- **Cloud**:
+	
+   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+	
 <!-- - **Software and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
