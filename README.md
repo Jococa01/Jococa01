@@ -13,8 +13,8 @@
 
 <br>
 
-- A hardworking Fullstack developer student
-- Currently learning Web Development at Florida Universitària
+- A hardworking Fullstack developer
+- Currently working at -
 - My Linkedin profile [link](https://www.linkedin.com/in/jococa/?locale=en_US)
  
 <br><br>
