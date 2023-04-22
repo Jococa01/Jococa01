@@ -14,7 +14,7 @@
 <br>
 
 - A hardworking Fullstack developer
-- Currently on and intership at AEOL Service
+- Currently on an internship at AEOL Service
 - My Linkedin profile [link](https://www.linkedin.com/in/jococa/?locale=en_US)
  
 <br><br>
